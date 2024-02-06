@@ -1,0 +1,17 @@
+C:\Users\MárciodosSantosGomes\Desktop\Projeto_API\Persistence\bin\Debug\net7.0\Persistence.deps.json
+C:\Users\MárciodosSantosGomes\Desktop\Projeto_API\Persistence\bin\Debug\net7.0\Persistence.runtimeconfig.json
+C:\Users\MárciodosSantosGomes\Desktop\Projeto_API\Persistence\bin\Debug\net7.0\Persistence.dll
+C:\Users\MárciodosSantosGomes\Desktop\Projeto_API\Persistence\bin\Debug\net7.0\Persistence.pdb
+C:\Users\MárciodosSantosGomes\Desktop\Projeto_API\Persistence\bin\Debug\net7.0\Domain.dll
+C:\Users\MárciodosSantosGomes\Desktop\Projeto_API\Persistence\bin\Debug\net7.0\Domain.pdb
+C:\Users\MárciodosSantosGomes\Desktop\Projeto_API\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\MárciodosSantosGomes\Desktop\Projeto_API\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MárciodosSantosGomes\Desktop\Projeto_API\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\MárciodosSantosGomes\Desktop\Projeto_API\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+C:\Users\MárciodosSantosGomes\Desktop\Projeto_API\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\MárciodosSantosGomes\Desktop\Projeto_API\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+C:\Users\MárciodosSantosGomes\Desktop\Projeto_API\Persistence\obj\Debug\net7.0\Persistence.dll
+C:\Users\MárciodosSantosGomes\Desktop\Projeto_API\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+C:\Users\MárciodosSantosGomes\Desktop\Projeto_API\Persistence\obj\Debug\net7.0\Persistence.pdb
+C:\Users\MárciodosSantosGomes\Desktop\Projeto_API\Persistence\obj\Debug\net7.0\Persistence.genruntimeconfig.cache
+C:\Users\MárciodosSantosGomes\Desktop\Projeto_API\Persistence\obj\Debug\net7.0\ref\Persistence.dll
